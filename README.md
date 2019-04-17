@@ -1,4 +1,6 @@
 # LT-StobiePoles
-Australian Stobie poles for the Minecraft mod Little Tiles
+Australian Stobie poles designed for Immersive Engineering, made in the mod Little Tiles.
 
-Default poles are found within [Base-Poles](Base-Poles/)
+Default pole variants are found within [Base-Poles](Base-Poles/)
+
+Decorated versions of the base variants to come.
