@@ -1,0 +1,1 @@
+{tiles:[{boxes:[[I;22,6,32,26,10,48],[I;24,0,38,26,6,42]],tile:{meta:0,block:"minecraft:iron_block",tID:"BlockTileBlock"},group:1b}],min:[I;22,0,32],size:[I;4,10,16],count:2,structure:{name:"Comms Mount",id:"fixed"}}
